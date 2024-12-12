@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+    font-family: "Hind Siliguri", sans-serif;
+    font-size: 15px;
+       
+}
+.luffy{
+    width: 750px;
+    border-radius: 35px;
+}
+
+.calabaza{
+    width: 450px;
+    border-radius: 50px;
+    opacity: 0.5;
+}
+
+h2{
+    text-align: center;
+}
+
+.odiar{
+   
+    background-color: darkred;
+    font-size: 11px;
+}
